@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/babanka/chat-Application/static/css/main.4845cf2f.css",
+    "main.js": "/babanka/chat-Application/static/js/main.2b485ceb.js",
+    "index.html": "/babanka/chat-Application/index.html",
+    "main.4845cf2f.css.map": "/babanka/chat-Application/static/css/main.4845cf2f.css.map",
+    "main.2b485ceb.js.map": "/babanka/chat-Application/static/js/main.2b485ceb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4845cf2f.css",
+    "static/js/main.2b485ceb.js"
+  ]
+}
